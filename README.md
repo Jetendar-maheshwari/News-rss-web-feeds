@@ -66,7 +66,7 @@ This web application is designed to collect various web feeds from different med
 
 To use the RSS Feed Aggregator, you need to configure your database settings. Follow these steps:
 
-1. Open `action.php`.
+1. Open `Api.php`.
 2. Locate the database configuration section.
 3. Update the `$servername`, `$username`, `$password`, and `$dbname` variables with your database credentials.
 
