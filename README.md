@@ -73,7 +73,7 @@ To use the RSS Feed Aggregator, you need to configure your database settings. Fo
 ## Setup
 
 1. Clone the repository.
-2. Configure your database settings in `action.php`.
+2. Configure your database settings in `Api.php`.
 3. Run the project on a PHP-enabled server.
 
 ## Usage
