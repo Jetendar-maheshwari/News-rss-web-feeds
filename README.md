@@ -86,10 +86,6 @@ To use the RSS Feed Aggregator, you need to configure your database settings. Fo
 
 If you want to contribute or report issues, feel free to create a pull request or open an issue.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contributing
 
 Feel free to contribute to the project by opening issues or submitting pull requests.
